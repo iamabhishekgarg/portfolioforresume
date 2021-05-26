@@ -695,6 +695,23 @@ ul.sub-menu {
     background-color: #87c05e;
 }
 
+.progress-bar.bar6{
+    background-color: rgb(236, 224, 49);
+}
+
+.progress-bar.bar7 {
+    background-color: hsl(323, 86%, 48%);
+}
+
+.progress-bar.bar8  {
+    background-color: #219bec;
+}
+
+.progress-bar.bar9 {
+    background-color: rgb(228, 27, 37);
+}
+
+
 .language-skill {
     margin-top: 50px;
 }
