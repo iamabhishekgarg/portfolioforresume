@@ -711,6 +711,9 @@ ul.sub-menu {
     background-color: rgb(228, 27, 37);
 }
 
+.progress-bar.bar10  {
+    background-color: #b90162;
+}
 
 .language-skill {
     margin-top: 50px;
@@ -883,8 +886,8 @@ ul.sub-menu {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #ef6e30;
-    color: #fff;
+    background-color: rgb(112, 231, 15);
+    color: rgb(100, 21, 21);
     -webkit-transition: all 500ms;
     -moz-transition: all 500ms;
     -ms-transition: all 500ms;
@@ -900,21 +903,21 @@ ul.sub-menu {
     position: absolute;
     bottom: 0;
     left: 0;
-    font-size: 16px;
+    font-size: 26px;
     font-weight: normal;
     padding-left: 30px;
     padding-bottom: 20px;
 }
 
 .portfolio-info h3 {
-    color: #fff;
+    color: rgb(15, 2, 2);
     margin-top: 5px;
     margin-bottom: 0;
 }
 
 .portfolio-info a {
     font-size: 30px;
-    color: #fff;
+    color: rgb(34, 47, 238);
 }
 
 .portfolio-info a:hover {
