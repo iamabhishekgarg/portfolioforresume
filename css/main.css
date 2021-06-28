@@ -714,7 +714,9 @@ ul.sub-menu {
 .progress-bar.bar10  {
     background-color: #b90162;
 }
-
+.progress-bar.bar11 {
+    background-color: hsl(130, 77%, 49%);
+}
 .language-skill {
     margin-top: 50px;
 }
